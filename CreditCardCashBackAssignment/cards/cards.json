@@ -1,0 +1,59 @@
+[{
+        "card_name": "Airtel Axis Card",
+        "rules": [{
+                "categories": ["Airtel Recharge"],
+                "cashback_percent": 25,
+                "monthly_cap": 250
+            },
+            {
+                "categories": ["Utility Bill"],
+                "cashback_percent": 10,
+                "monthly_cap": 250
+            },
+            {
+                "categories": ["Swiggy", "Zomato", "BigBasket"],
+                "cashback_percent": 10,
+                "monthly_cap": 500
+            },
+            {
+                "categories": ["EMI Purchase"],
+                "cashback_percent": 0,
+                "monthly_cap": 0
+            },
+            {
+                "categories": ["Others"],
+                "cashback_percent": 1,
+                "monthly_cap": -1
+            }
+        ]
+    },
+    {
+        "card_name": "HDFC Millennia Card",
+        "rules": [{
+                "categories": ["Amazon", "Flipkart", "Online Shopping"],
+                "cashback_percent": 5,
+                "monthly_cap": 300
+            },
+            {
+                "categories": ["Utility Bill"],
+                "cashback_percent": 8,
+                "monthly_cap": 200
+            },
+            {
+                "categories": ["Zomato", "Swiggy", "Dining"],
+                "cashback_percent": 10,
+                "monthly_cap": 400
+            },
+            {
+                "categories": ["EMI Purchase"],
+                "cashback_percent": 0,
+                "monthly_cap": 0
+            },
+            {
+                "categories": ["Others"],
+                "cashback_percent": 0.5,
+                "monthly_cap": -1
+            }
+        ]
+    }
+]
